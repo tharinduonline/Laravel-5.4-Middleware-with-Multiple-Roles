@@ -4,3 +4,4 @@
 Role based access control in Laravel
 Admin, Student, Teacher
 
+<p align="center"><img src="https://image.ibb.co/dQkfN9/admin_atudent.png"></p>
